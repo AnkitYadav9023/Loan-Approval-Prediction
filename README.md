@@ -13,10 +13,6 @@ Loan approval is a critical decision-making process in financial institutions. T
 Users provide their financial and personal details, and the system instantly predicts loan approval status.
 
 ---
-🚀 Live Demo
-
-🔗 Access the deployed app here:
-👉 https://your-app-link.streamlit.app
 
 ## 🧠 Machine Learning Model
 
